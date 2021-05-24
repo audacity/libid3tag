@@ -340,7 +340,7 @@ id3_ucs4_t *id3_utf8_ucs4duplicate(id3_utf8_t const *);
 
 # define ID3_VERSION_MAJOR	0
 # define ID3_VERSION_MINOR	15
-# define ID3_VERSION_PATCH	1
+# define ID3_VERSION_PATCH	2
 # define ID3_VERSION_EXTRA	" (beta)"
 
 # define ID3_VERSION_STRINGIZE(str)	#str
