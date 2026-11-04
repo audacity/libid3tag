@@ -4,7 +4,7 @@ project( libid3tag )
 
 include(CMakeDependentOption)
 
-set( TARGET libid3tag )
+set( TARGET id3tag )
 
 cmake_dependent_option( BUILD_SHARED "Build a shared library" Off "NOT WIN32" Off)
 
